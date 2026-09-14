@@ -1,5 +1,7 @@
 # EMS — Election Monitoring System
 
+**Live demo:** https://madhanreddy466-droid.github.io/election-monitoring-system/
+
 A role-based, multi-portal election monitoring web application built with vanilla JavaScript. EMS lets citizens report issues, field observers log booth-level problems with photo evidence, analysts visualize trends, and admins manage everything from a central dashboard — all in a single responsive front-end app.
 
 **Goal:** make election monitoring transparent and accessible, and help build a culture of informed civic participation among first-time voters.

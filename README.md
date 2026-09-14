@@ -28,7 +28,7 @@ A role-based, multi-portal election monitoring web application built with vanill
 
 1. Clone the repo:
    ```
-   git clone https://github.com/madhanreddy466-droid/EMS-PROJECT.git
+   git clone https://github.com/madhanreddy466-droid/election-monitoring-system.git
    ```
 2. Open `index.html` directly in any modern browser — no build step or server required.
 
